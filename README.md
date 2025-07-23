@@ -1,11 +1,11 @@
-# [Personal ToDo List Application](https://github.com/xodivorce/secret_code_generator)
+# [Secret Code Generator](https://github.com/xodivorce/secret_code_generator)
 ### 👀 Preview:
 
 <img src="./images/secret_code_generator_preview.png">
 
 ### Welcome to a Secret Code Generator..! - developed by ([@xodivorce](https://instagram.com/xodivorce)) 📝✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
-[![version](https://img.shields.io/badge/version-v1.0.2-yellow.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
+[![version](https://img.shields.io/badge/version-v1.0.3-yellow.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
 <br></br>
 
