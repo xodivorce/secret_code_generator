@@ -4,9 +4,9 @@
 <img src="./images/secret_code_generator_preview.png">
 
 ### Welcome to a Secret Code Generator..! - developed by ([@xodivorce](https://instagram.com/xodivorce)) 📝✨
-[![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.0.1-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
+[![version](https://img.shields.io/badge/version-v1.0.2-yellow.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
+[![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/secret_code_generator/)
 <br></br>
 
 ### 📌 Tech Stack
@@ -16,7 +16,7 @@ Here’s what fuels this site:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### 🛠️ How to Use:
 
-Ready to contribute? Follow these steps to get started:
+Ready to use? Follow these steps to get started:
 
 1. **Clone the Repository**
    - Clone the repository to your local machine:
@@ -40,7 +40,8 @@ Ready to contribute? Follow these steps to get started:
      ```
 
 🚀 **Got Ideas or Spotted a Bug?**  
-Don’t be shy! [*Open an issue*](https://github.com/xodivorce/secret_code_generator.git/issues) to discuss new features, enhancements, or any bugs you find. Your feedback is golden!!
+Don’t be shy! [*Open an issue*](https://github.com/xodivorce/secret_code_generator/issues) to discuss new features, enhancements, or any bugs you find. Your feedback is golden!!
+
 - Let’s create something epic together! 🌟
 
 ### 📝 License & Usage
